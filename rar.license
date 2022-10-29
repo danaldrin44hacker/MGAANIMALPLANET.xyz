@@ -1,0 +1,1 @@
+The deviceorientation events are blocked by feature policy. See https://github.com/WICG/feature-policy/blob/master/features.md#sensor-features
